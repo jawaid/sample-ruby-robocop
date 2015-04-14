@@ -9,3 +9,4 @@ rub rubocop, and of course a shippable.yml file to run this build on shippable!
 The shippable.yml checks the rubocop and test results in seperate steps. This
 allows you to quickly see if your build failed due to style check fails, or
 test fails
+  
